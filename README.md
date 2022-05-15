@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superiron29
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I am currently learning C# in my spare time and Java at school
 
 <!---
 Superiron29/Superiron29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
